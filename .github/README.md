@@ -28,7 +28,7 @@
   </a>
 </p>
 
-- [✨ Deploy]()
+## [✨ Deploy](https://boarding-pass-wesleyallan.netlify.app/)
 
 ## 🚀 Tecnologias
 
