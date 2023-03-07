@@ -1,0 +1,44 @@
+.city {
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--black700);
+}
+
+.airport {
+  font-size: 4rem;
+  font-weight: 500;
+  color: var(--black900);
+}
+
+.hour {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--black700);
+}
+
+.fuso {
+  font-weight: 400;
+  color: var(--black700);
+}
+
+.cityR {
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--black700);
+  text-align: right;
+}
+
+.airportR {
+  font-size: 4rem;
+  font-weight: 500;
+  color: var(--black900);
+  text-align: right;
+}
+
+.hourR {
+  display: flex;
+  justify-content: end;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--black700);
+}

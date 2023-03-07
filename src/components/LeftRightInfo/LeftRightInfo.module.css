@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.containerInfoLeft {
+  text-align: left;
+}
+.containerInfoRight {
+  text-align: right;
+}
+
+.title {
+  font-size: 1.4rem;
+  color: var(--black700);
+  font-weight: 400;
+}
+
+.text {
+  font-size: 1.6rem;
+  color: var(--black800);
+  font-weight: 500;
+}

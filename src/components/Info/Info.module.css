@@ -1,0 +1,22 @@
+.title {
+  font-size: 1.4rem;
+  color: var(--black700);
+  font-weight: 400;
+}
+
+.textSecondary {
+  width: fit-content;
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.8rem;
+  font-size: 1.4rem;
+  background-color: var(--purple300);
+  color: var(--white900);
+  font-weight: 400;
+  text-align: center;
+}
+
+.text {
+  font-size: 1.6rem;
+  color: var(--black800);
+  font-weight: 500;
+}
