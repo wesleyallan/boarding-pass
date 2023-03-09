@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="./hi.gif" alt="Mão acenando" width="30px">
-  #boraCodar 06 - Cartão de Embarque
+  #boraCodar 06 - Boarding Pass
 </h1>
 
-<p align="center">🌐🚀 Resoluções e correções do desafios 06, um projeto de cartão de embarque.</p>
+<p align="center">🌐🚀 Resoluções do desafios 06, um projeto de cartão de embarque.</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -28,17 +28,15 @@
   </a>
 </p>
 
-## [✨ Deploy](https://boarding-pass-wesleyallan.netlify.app/)
+## [✨ Deploy](https://boardingpass-wesleyallan.netlify.app/)
 
 ## 🚀 Tecnologias
 
 Tecnologias utilizadas no desenvolvimento no código do projeto.
 
-- HTML
-- CSS Modules
-- JavaScript
 - React
-- Jsx
+- JSX
+- CSS Modules
 
 ## 🔧 Ferramentas
 
